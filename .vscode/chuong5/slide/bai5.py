@@ -1,4 +1,4 @@
-ftext = open("romeo.txt")
+ftext = open("remeo.txt")
 tu_dien_cac_tu = {}
 for dong in ftext:
     danh_sach_tu = dong.split()
